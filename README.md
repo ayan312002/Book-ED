@@ -10,7 +10,7 @@ DevCom Assignment
 * Chat with the bookseller before buying
 
 ### Main Layout Features:
-* TabLayout
+* TabLayout(Uses latest viewpager2 implementation)
 * Navigation Drawer
 * RecyclerView 
 * Dark Mode(coming soon)
